@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: wh
-# key: wh
+# name: while
+# key: while
 # --
 while ($1){
 $0
